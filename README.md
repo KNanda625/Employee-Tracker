@@ -15,10 +15,10 @@ GitBash or Terminal will be needed to push changes to GitHub.
 Clone repository on local computer using GitBash or Terminal.
 1) git clone https://github.com/KNanda625/Employee-Tracker.git 
 2) Seed your MySQL database using the seeds.sql file. Then run the following:
-	
+	```
 	npm install
 	node index.js
-
+	```
 
 ## Deployment
 
